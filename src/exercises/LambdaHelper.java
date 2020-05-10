@@ -32,4 +32,10 @@ public class LambdaHelper {
 		return lambda.apply(c);
 	}
 
+	public static Double processBiFunction(double sideA, double sideB,
+			BiFunction<Double, Double, Double> pYTHAGOREAN_LAMBDA) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
